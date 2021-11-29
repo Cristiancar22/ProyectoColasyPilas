@@ -1,0 +1,30 @@
+/*! \mainpage Proyecto MaxStack y MaxQueue
+
+## Realizado por:
+### Cardenas Garcia, Cristian
+### Kharraz Senhaji, Morad
+
+# Introducción
+
+En este proyecto implementamos dos TDA que nos permite operar con estructuras LIFO y FIFO, cuyos valores
+de dichas estructuras contienen el máximo de estas.
+
+# Ejecutables
+
+## Cola_max
+
+Comprueba el correcto funcionamiento del TDA MaxQueue introduciendo valores y puntos
+
+> __cola_max__ \<Numeros\> \<Puntos\>
+@param "<Numeros>" Numero que queremos introducir a la estructura
+@param "<Puntos>" Puntos (.) extrae un elemento de la estructura
+
+## Pila_max
+
+Comprueba el correcto funcionamiento del TDA MaxStack introduciendo valores y puntos
+
+> __pila_max__ \<Numeros\> \<Puntos\>
+@param "<Numeros>" Numero que queremos introducir a la estructura
+@param "<Puntos>" Puntos (.) extrae un elemento de la estructura
+
+*/
